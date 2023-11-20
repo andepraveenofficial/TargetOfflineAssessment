@@ -1,0 +1,22 @@
+.card-component{
+    margin: 20px;
+    box-shadow: 0 0 10px black;
+    max-width:500px;
+    padding:10px;
+    border-radius: 10px;
+}
+
+.post-link{
+    text-decoration: none;
+}
+
+.post-title{
+    font-size: 18px;
+    color:aqua;
+    text-align: center;
+}
+
+.post-data{
+    font-size: 16px;
+}
+

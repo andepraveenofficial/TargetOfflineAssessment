@@ -1,0 +1,16 @@
+.not-found-page {
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.goto-home-page-button{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: cadetblue;
+    cursor: pointer;
+}

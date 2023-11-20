@@ -1,0 +1,16 @@
+.post-container {
+    min-height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.each-post-heading{
+    text-align: center;
+}
+
+.each-post-paragraph{
+    text-align: center;
+}
+

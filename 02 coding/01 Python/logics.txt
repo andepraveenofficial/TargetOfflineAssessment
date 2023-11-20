@@ -1,0 +1,25 @@
+Logics :
+==============
+1 list
+2 matrix
+3 itetools
+==============
+matrix:
+----------
+1) read matrix
+2) copy matrix
+3) rotate matrix
+4) rotate matrix on clockwise
+5) primary diagonal
+6) secondary diagonal
+7) anti diagonal rows
+8) matrix parts
+9) matrix square parts
+10) take zero sides
+11) take zero corners
+12) find v_secondary diagonal
+13) find v_primary diagonal
+=====================================
+
+
+

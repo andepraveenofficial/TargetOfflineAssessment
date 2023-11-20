@@ -1,0 +1,40 @@
+{
+	"ReactApp": [
+		{
+			"src": [
+				{ "Assets": "Images,Logos,Icons" },
+				{
+					"Pages": [
+						{ "Login": "Login" },
+						{ "Home": "Home" },
+						{ "Data": "Data" },
+						{ "NotFound": "NotFound" }
+					]
+				},
+				{
+					"Components": [
+						{ "SpecificItem": "Specific Item" },
+						{ "Card": "Card" }
+					]
+				},
+				{
+					"Layout": [
+						{ "Header": "Header" },
+						{ "SideBar": "SideBar" },
+						{ "Footer": "Footer" }
+					]
+				},
+				{ "Hooks": [{ "useFetchData": "useFetchData" }] },
+				{
+					"StyledComponents": [
+						{ "styledComponents": "styledComponents" },
+						{ "globalStyles": "globalStyles" }
+					]
+				},
+				{ "Context": "React Context" },
+				{ "Store": "Redux Store" },
+				{ "Services": "APIs" }
+			]
+		}
+	]
+}
